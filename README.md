@@ -10,7 +10,7 @@
 
 <div > 
   <p align="center">
-    <img src="./src/assets/youtubefinal.jpg" alt="YT-clone" width="800" height="420">
+    <img src="./src/assets/youtubefinal.jpg" alt="YT-clone" width="800" height="600">
     </p>
     </div>
 
