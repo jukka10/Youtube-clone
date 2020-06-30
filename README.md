@@ -32,4 +32,4 @@ This app features all the latest tools and practices in mobile development!
 
 ## License
 
-Thi
+This project is licensed under the MIT License - see the LICENSE page for details.
